@@ -1,11 +1,11 @@
 # Site settings
 author: Nathaniel Kerr
-title: 
+title: Kerr Codes
 header-img: img/home-bg.png
 email: nathanielkerr10@gmail.com
 copyright_name: Nathaniel Kerr
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Code Life
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  Nathaniel-Kerr
